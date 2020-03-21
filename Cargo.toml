@@ -1,0 +1,10 @@
+[package]
+name = "guessmeifyoucan"
+version = "0.1.0"
+authors = ["John Biesnecker <jbiesnecker@gmail.com>"]
+edition = "2018"
+license = "MIT"
+license_file = "LICENSE.txt"
+
+[dependencies]
+rand = "0.7.3"
